@@ -1,4 +1,4 @@
 wilsoncolors
 ============
 
-Colour based on Wilson's Shirt colour
+Color based on Wilson's Shirt color
